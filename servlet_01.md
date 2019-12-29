@@ -41,7 +41,7 @@
   http://localhost:8080/gerenciador/bem-vindo.html
  ```
 
- ### Projeto Primeiro Servlet
+### Projeto Primeiro Servlet
  - Classe extender de HttpServlet
  - Anotação para modificar nome da servlet (mapea ela na URL)
  - Método service()

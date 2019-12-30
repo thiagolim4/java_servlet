@@ -37,8 +37,10 @@
  - Atua como um "mini servidor", sendo chamado por HTTP e gerando a resposta dinâmica
  - Quando o Tomcat recebe a requisição do navegador com relação aos dados do projeto gerenciador, ao abrirmos a página não estamos mais lidando com um arquivo, mas com um Servlet
  - Acesso:
- ```protocolo://ip:porta/contexto/recurso
-  http://localhost:8080/gerenciador/bem-vindo.html
+ ``protocolo://ip:porta/contexto/recurso
+ ``
+```
+ http://localhost:8080/gerenciador/bem-vindo.html
  ```
 
 ### Projeto Primeiro Servlet
